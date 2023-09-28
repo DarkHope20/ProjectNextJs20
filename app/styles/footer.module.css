@@ -1,0 +1,236 @@
+.vuesaxoutlineexportIcon {
+  position: relative;
+  width: 1.65rem;
+  height: 1.65rem;
+  object-fit: cover;
+}
+.monthlyGroceries {
+  position: relative;
+  font-weight: 500;
+}
+.monthlyGroceriesParent,
+.vuesaxoutlineexportParent {
+  width: 7.75rem;
+  height: 2.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.vuesaxoutlineexportParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10.25rem;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.81rem;
+  color: #232f4e;
+}
+.frameChild {
+  position: relative;
+  border-radius: 5px;
+  width: 1.25rem;
+  height: 1.25rem;
+  object-fit: cover;
+}
+.frameContainer {
+  position: absolute;
+  top: 0.5rem;
+  left: 12.75rem;
+  width: 3.25rem;
+  height: 1.25rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+}
+.fromSavingsWallet {
+  position: relative;
+  font-size: 0.75rem;
+  color: #9aa2ac;
+}
+.parent {
+  position: absolute;
+  top: 0;
+  left: 19rem;
+  width: 7.31rem;
+  height: 2.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.25rem;
+  text-align: right;
+}
+.frameGroup,
+.frameItem {
+  position: relative;
+  width: 26.31rem;
+  height: 2.25rem;
+}
+.frameItem {
+  height: 0.06rem;
+  object-fit: cover;
+}
+.freelanceWorkParent {
+  width: 6.5rem;
+  height: 2.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.vuesaxoutlineexportGroup {
+  top: 0;
+  left: 0;
+  width: 9rem;
+  height: 2.25rem;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.81rem;
+  color: #232f4e;
+}
+.frameParent1,
+.group,
+.vuesaxoutlineexportGroup {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent1 {
+  top: 0.5rem;
+  left: 12.75rem;
+  width: 3.44rem;
+  height: 1.25rem;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+}
+.group {
+  top: 0;
+  left: 21.69rem;
+  width: 4.63rem;
+  height: 2.25rem;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.25rem;
+  text-align: right;
+}
+.frameDiv {
+  position: relative;
+  width: 26.31rem;
+  height: 2.25rem;
+  color: #3cc599;
+}
+.carRepairmentParent,
+.vuesaxoutlineexportContainer {
+  width: 6.56rem;
+  height: 2.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.vuesaxoutlineexportContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 9.06rem;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.81rem;
+  color: #232f4e;
+}
+.div2 {
+  position: absolute;
+  top: 0;
+  left: 3.19rem;
+  font-weight: 500;
+}
+.fromUtilitiesWallet {
+  position: absolute;
+  top: 1.31rem;
+  left: 0;
+  font-size: 0.75rem;
+  color: #9aa2ac;
+}
+.container {
+  position: absolute;
+  top: 0;
+  left: 19.13rem;
+  width: 7.19rem;
+  height: 2.25rem;
+  text-align: right;
+}
+.vuesaxoutlineexportIcon3 {
+  position: absolute;
+  top: 0.5rem;
+  left: 0;
+  width: 1.65rem;
+  height: 1.65rem;
+  object-fit: cover;
+}
+.carRepairment1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.carRepairmentGroup {
+  position: absolute;
+  top: 0;
+  left: 2.5rem;
+  width: 6.56rem;
+  height: 2.25rem;
+}
+.vuesaxoutlineexportParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 9.06rem;
+  height: 2.25rem;
+  color: #232f4e;
+}
+.frameChild2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 1.25rem;
+  height: 1.25rem;
+  object-fit: cover;
+}
+.high2 {
+  position: absolute;
+  top: 0.19rem;
+  left: 1.75rem;
+  font-weight: 500;
+}
+.frameParent5 {
+  position: absolute;
+  top: 0.5rem;
+  left: 12.75rem;
+  width: 3.44rem;
+  height: 1.25rem;
+  font-size: 0.75rem;
+}
+.frameParent {
+  width: 26.31rem;
+  height: 15.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.13rem;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #c53c68;
+  font-family: Inter;
+}

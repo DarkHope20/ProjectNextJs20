@@ -1,0 +1,25 @@
+{
+  "name": "teste",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "eslint": "8.50.0",
+    "eslint-config-next": "13.5.3",
+    "fullcalendar": "^6.1.9",
+    "material-icons": "^1.13.11",
+    "next": "13.5.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "vuesax": "^3.12.2"
+  },
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3"
+  }
+}

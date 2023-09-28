@@ -1,0 +1,17 @@
+.frameChild {
+  position: relative;
+  width: 18rem;
+  height: 0.06rem;
+  object-fit: cover;
+}
+.newsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.5rem;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #3c5cc5;
+  font-family: Inter;
+}

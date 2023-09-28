@@ -1,0 +1,320 @@
+.k,
+.k1,
+.k2,
+.k3,
+.k4 {
+  position: absolute;
+  top: 81.48%;
+  left: 0;
+}
+.k1,
+.k2,
+.k3,
+.k4 {
+  top: 61.11%;
+}
+.k2,
+.k3,
+.k4 {
+  top: 40.74%;
+}
+.k3,
+.k4 {
+  top: 20.37%;
+}
+.k4 {
+  top: 0;
+}
+.frameChild,
+.frameInner,
+.frameItem,
+.vectorIcon {
+  position: absolute;
+  top: 2.2rem;
+  left: 0;
+  width: 44.94rem;
+  height: 0.09rem;
+  object-fit: cover;
+}
+.frameInner,
+.frameItem,
+.vectorIcon {
+  top: 5.64rem;
+}
+.frameInner,
+.vectorIcon {
+  top: 9.08rem;
+}
+.vectorIcon {
+  top: 12.52rem;
+}
+.frameChild1,
+.rectangleDiv {
+  position: relative;
+  border-radius: 3px;
+  width: 1.5rem;
+}
+.rectangleDiv {
+  background-color: #60d2f9;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  height: 5.25rem;
+}
+.frameChild1 {
+  background-color: #3c5cc5;
+  height: 8.06rem;
+}
+.rectangleParent {
+  width: 3.25rem;
+  height: 8.06rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.sun {
+  position: relative;
+}
+.frameGroup {
+  position: absolute;
+  top: 5.69rem;
+  left: 0;
+  width: 3.25rem;
+  height: 10.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.13rem;
+}
+.frameChild2,
+.frameChild3 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #60d2f9;
+  width: 1.5rem;
+  height: 6.75rem;
+}
+.frameChild3 {
+  background-color: #3c5cc5;
+  height: 9.25rem;
+}
+.frameContainer,
+.rectangleGroup {
+  width: 3.25rem;
+  height: 9.25rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.frameContainer {
+  position: absolute;
+  top: 4.5rem;
+  left: 6.25rem;
+  height: 11.44rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.13rem;
+}
+.frameChild4,
+.frameChild5 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #60d2f9;
+  width: 1.5rem;
+  height: 7.56rem;
+}
+.frameChild5 {
+  background-color: #3c5cc5;
+  height: 10.31rem;
+}
+.frameDiv,
+.rectangleContainer {
+  width: 3.25rem;
+  height: 10.31rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.frameDiv {
+  position: absolute;
+  top: 3.44rem;
+  left: 12.5rem;
+  height: 12.5rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.13rem;
+}
+.frameChild6,
+.frameChild7 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #60d2f9;
+  width: 1.5rem;
+  height: 10rem;
+}
+.frameChild7 {
+  background-color: #3c5cc5;
+  height: 13.75rem;
+}
+.frameParent1,
+.rectangleParent1 {
+  width: 3.25rem;
+  height: 13.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.frameParent1 {
+  position: absolute;
+  top: 0;
+  left: 18.75rem;
+  height: 15.94rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.13rem;
+}
+.frameChild8,
+.frameChild9 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #60d2f9;
+  width: 1.5rem;
+  height: 10.31rem;
+}
+.frameChild9 {
+  background-color: #3c5cc5;
+  height: 10.19rem;
+}
+.frameParent2,
+.rectangleParent2 {
+  width: 3.25rem;
+  height: 10.31rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.25rem;
+}
+.frameParent2 {
+  position: absolute;
+  top: 3.44rem;
+  left: 25rem;
+  height: 12.5rem;
+  flex-direction: column;
+  gap: 1.13rem;
+}
+.frameChild10 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #60d2f9;
+  width: 1.5rem;
+  height: 3.81rem;
+}
+.frameParent3 {
+  position: absolute;
+  top: 5.69rem;
+  left: 31.25rem;
+  width: 3.25rem;
+  height: 10.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.13rem;
+}
+.frameChild13 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #3c5cc5;
+  width: 1.5rem;
+  height: 10.25rem;
+}
+.frameParent4 {
+  position: absolute;
+  top: 3.44rem;
+  left: 37.5rem;
+  width: 3.25rem;
+  height: 12.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.13rem;
+}
+.div {
+  position: relative;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.frameWrapper,
+.thursdayParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.thursdayParent {
+  width: 5.06rem;
+  height: 2.5rem;
+  justify-content: flex-start;
+  gap: 0.13rem;
+}
+.frameWrapper {
+  position: absolute;
+  height: 25.1%;
+  width: 17.94%;
+  top: 0;
+  right: 27.45%;
+  bottom: 74.9%;
+  left: 54.6%;
+  border-radius: 8px;
+  background-color: rgba(35, 47, 78, 0.32);
+  backdrop-filter: blur(28px);
+  justify-content: center;
+  padding: 0 0.75rem;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #232f4e;
+  font-family: Manrope;
+}
+.fluentcursor24FilledIcon {
+  position: absolute;
+  height: 6.27%;
+  width: 2.45%;
+  top: 9.41%;
+  right: 46.63%;
+  bottom: 84.31%;
+  left: 50.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frameParent,
+.kParent {
+  position: absolute;
+  top: 0.94rem;
+  left: 4.19rem;
+  width: 40.75rem;
+  height: 15.94rem;
+  text-align: center;
+}
+.kParent {
+  top: 14.63rem;
+  left: 20.81rem;
+  width: 44.94rem;
+  height: 16.88rem;
+  text-align: right;
+  font-size: 0.88rem;
+  color: #9aa2ac;
+  font-family: Inter;
+}

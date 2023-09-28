@@ -1,0 +1,775 @@
+.financeManagementChild,
+.financeManagementItem {
+  position: absolute;
+  top: 33.34rem;
+  left: 18.31rem;
+  width: 49.94rem;
+  height: 0.06rem;
+  object-fit: cover;
+}
+.financeManagementItem {
+  top: 37.34rem;
+}
+.activitySummary,
+.summary {
+  position: absolute;
+  top: 11.63rem;
+  left: 20.81rem;
+  font-weight: 500;
+}
+.activitySummary {
+  top: 34.63rem;
+}
+.financeManagementInner {
+  position: absolute;
+  top: 37.44rem;
+  left: 38.91rem;
+  width: 0.06rem;
+  height: 19.38rem;
+  object-fit: cover;
+}
+.financeHealth {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 2.56rem;
+  left: 15.63rem;
+  border-radius: 50%;
+  background-color: #c53c68;
+  width: 15.63rem;
+  height: 15.63rem;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.frameItem {
+  background-color: #f9cd09;
+}
+.ellipseDiv,
+.frameChild1,
+.frameChild2,
+.frameInner {
+  position: absolute;
+  border-radius: 50%;
+  background-color: #e27b04;
+}
+.frameInner {
+  top: 2.56rem;
+  left: 15.63rem;
+  width: 15.63rem;
+  height: 15.63rem;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.ellipseDiv,
+.frameChild1,
+.frameChild2 {
+  top: 4rem;
+  left: 12.19rem;
+  width: 1.13rem;
+  height: 1.13rem;
+}
+.frameChild1,
+.frameChild2 {
+  top: 4.31rem;
+  left: 12.5rem;
+  background-color: #fff;
+  width: 0.5rem;
+  height: 0.5rem;
+}
+.frameChild2 {
+  top: 2.56rem;
+  left: 15.63rem;
+  background-color: #3cc599;
+  width: 15.63rem;
+  height: 15.63rem;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.b,
+.financeHealthIs {
+  position: relative;
+}
+.financeHealthIs {
+  font-weight: 500;
+}
+.updated08212021 {
+  position: relative;
+  font-size: 0.75rem;
+  color: #9aa2ac;
+}
+.financeHealthIsGreatParent,
+.parent {
+  width: 9.06rem;
+  height: 2.19rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  font-size: 0.81rem;
+}
+.parent {
+  position: absolute;
+  top: 5.94rem;
+  left: 3.25rem;
+  height: 5.69rem;
+  justify-content: flex-start;
+  gap: 0.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+}
+.financeHealthParent {
+  position: absolute;
+  top: 38.88rem;
+  left: 20.81rem;
+  width: 15.63rem;
+  height: 18.19rem;
+  font-size: 0.88rem;
+}
+.dashboard {
+  position: relative;
+  font-weight: 600;
+}
+.vuesaxboldcalendarIcon {
+  position: relative;
+  width: 1.32rem;
+  height: 1.32rem;
+  object-fit: cover;
+}
+.vuesaxboldcalendarParent {
+  border-radius: 6px;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  width: 15.81rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1rem;
+  gap: 0.63rem;
+  font-size: 0.94rem;
+}
+.dashboardParent,
+.rectangleDiv {
+  position: absolute;
+  background-color: #fff;
+}
+.dashboardParent {
+  top: 3.63rem;
+  left: 18.31rem;
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.03) inset, 0 0.5px 0 rgba(0, 0, 0, 0.08);
+  width: 49.94rem;
+  height: 6.13rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1.5rem 2.5rem 1.31rem;
+  box-sizing: border-box;
+  gap: 19.88rem;
+  font-size: 1.75rem;
+}
+.rectangleDiv {
+  top: 3.69rem;
+  left: 0;
+  box-shadow: -0.5px 0 0 rgba(0, 0, 0, 0.05) inset,
+    0.5px 0 0 rgba(0, 0, 0, 0.08);
+  width: 18.31rem;
+  height: 53.13rem;
+}
+.frameInput {
+  border: 0;
+  font-family: Inter;
+  font-size: 0.94rem;
+  background-color: #f9f9f9;
+  position: absolute;
+  top: 5.13rem;
+  left: 1.25rem;
+  border-radius: 6px;
+  width: 15.81rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+.vuesaxboldhome2Icon {
+  position: relative;
+  width: 1rem;
+  height: 1rem;
+  object-fit: cover;
+}
+.dashboard1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxboldhome2Parent {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #3c5cc5;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1rem;
+  gap: 0.63rem;
+  color: #fff;
+}
+.tasks {
+  flex: 1;
+  position: relative;
+}
+.vuesaxoutlinenoteParent {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 1rem;
+  gap: 0.63rem;
+}
+.frameGroup,
+.frameParent {
+  position: absolute;
+  top: 11.25rem;
+  left: 1.25rem;
+  width: 15.81rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25rem;
+  font-size: 0.94rem;
+  color: #9aa2ac;
+}
+.frameGroup {
+  top: 30.88rem;
+}
+.financeManagementChild1,
+.vectorIcon {
+  position: absolute;
+  top: 9.72rem;
+  left: 2.25rem;
+  width: 13.81rem;
+  height: 0.06rem;
+  object-fit: cover;
+}
+.financeManagementChild1 {
+  top: 29.34rem;
+}
+.updateYourAccount {
+  position: relative;
+  line-height: 1.75rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 13.19rem;
+}
+.upgradeNowWrapper {
+  border-radius: 8px;
+  background-color: #fff;
+  width: 13.56rem;
+  height: 2.81rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.88rem;
+  color: #3c5cc5;
+}
+.updateYourAccountToProVerParent {
+  position: absolute;
+  top: 42.81rem;
+  left: 1.25rem;
+  border-radius: 10px;
+  background: linear-gradient(244.26deg, #3c5cc5 17.97%, #7189d5);
+  width: 15.81rem;
+  height: 11.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 1.88rem 1.13rem 1.13rem;
+  box-sizing: border-box;
+  gap: 2.19rem;
+  text-align: center;
+  font-size: 1.13rem;
+  color: #fff;
+}
+.financeManagementChild2 {
+  position: absolute;
+  top: 3.63rem;
+  left: 68.25rem;
+  background-color: #fff;
+  box-shadow: 0.5px 0 0 rgba(0, 0, 0, 0.05) inset,
+    -0.5px 0 0 rgba(0, 0, 0, 0.08);
+  width: 21.75rem;
+  height: 53.13rem;
+}
+.mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12.52px;
+  background-color: #232f4e;
+  width: 18rem;
+  height: 11.38rem;
+}
+.rectangle,
+.rectangleCopy {
+  position: absolute;
+  top: -2.93rem;
+  left: 2.44rem;
+  border-radius: 20.16px;
+  background-color: #60d2f9;
+  width: 14.46rem;
+  height: 14.46rem;
+  transform: rotate(44.86deg);
+  transform-origin: 0 0;
+}
+.rectangleCopy {
+  top: 4.14rem;
+  left: 9.01rem;
+  background-color: #3c5cc5;
+  width: 11.11rem;
+  height: 11.06rem;
+  transform: rotate(-9.95deg);
+}
+.pattern {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18rem;
+  height: 11.38rem;
+}
+.anitaRose,
+.cardHolderName {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.cardHolderName {
+  width: 64.15%;
+  top: calc(50% - 21.41px);
+  text-transform: uppercase;
+  height: 0.92rem;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.anitaRose {
+  width: 100%;
+  top: calc(50% - 4.51px);
+  font-size: 0.81rem;
+  font-weight: 600;
+  height: 1.62rem;
+}
+.cardHolderNameParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.77rem;
+  height: 2.68rem;
+}
+.cardHolderName1 {
+  position: absolute;
+  width: 65.48%;
+  top: calc(50% - 21.41px);
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+  height: 0.92rem;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.cardHolderNameGroup,
+.frameDiv {
+  position: absolute;
+  height: 2.68rem;
+}
+.cardHolderNameGroup {
+  top: 0;
+  left: 12.06rem;
+  width: 3.78rem;
+}
+.frameDiv {
+  top: 6.55rem;
+  left: 0;
+  width: 15.84rem;
+}
+.cardNumber {
+  width: 23.47%;
+  top: calc(50% - 30.42px);
+  text-transform: uppercase;
+  display: inline-block;
+  height: 0.92rem;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.cardNumber,
+.cardNumberParent,
+.div {
+  position: absolute;
+  left: 0;
+}
+.div {
+  width: 100%;
+  top: calc(50% - 6.76px);
+  font-size: 1.17rem;
+  letter-spacing: 1.08px;
+  font-weight: 600;
+  display: inline-block;
+  height: 2.32rem;
+}
+.cardNumberParent {
+  top: 0;
+  width: 13.23rem;
+  height: 3.8rem;
+}
+.frameContainer,
+.patternParent {
+  position: absolute;
+  top: 1.08rem;
+  left: 1.08rem;
+  width: 15.84rem;
+  height: 9.23rem;
+}
+.patternParent {
+  top: 11.25rem;
+  left: 70.13rem;
+  width: 18rem;
+  height: 11.38rem;
+  font-size: 0.45rem;
+  color: #fff;
+  font-family: "Space Grotesk";
+}
+.frameChild3,
+.groupIcon {
+  top: 0;
+  width: 3.13rem;
+  height: 3.13rem;
+}
+.groupIcon {
+  position: absolute;
+  left: 14.88rem;
+  object-fit: cover;
+}
+.frameChild3 {
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.frameChild3,
+.id281770,
+.peterParker {
+  position: absolute;
+  left: 0;
+}
+.peterParker {
+  top: 0;
+  font-weight: 600;
+}
+.id281770 {
+  top: 1.81rem;
+  font-size: 0.88rem;
+  opacity: 0.56;
+}
+.peterParkerParent {
+  position: absolute;
+  top: 0.13rem;
+  left: 4.13rem;
+  width: 7.5rem;
+  height: 2.88rem;
+}
+.ellipseParent,
+.groupParent {
+  position: absolute;
+  height: 3.13rem;
+}
+.ellipseParent {
+  top: 0;
+  left: 0;
+  width: 11.63rem;
+}
+.groupParent {
+  top: 5.13rem;
+  left: 70.13rem;
+  width: 18rem;
+}
+.cashOut {
+  position: absolute;
+  top: 0;
+  left: 1.25rem;
+}
+.vuesaxlinearexportIcon {
+  position: absolute;
+  top: 0.13rem;
+  left: 0;
+  width: 0.75rem;
+  height: 0.75rem;
+  object-fit: cover;
+}
+.cashOutParent {
+  position: absolute;
+  top: 1rem;
+  left: 1.94rem;
+  width: 4.69rem;
+  height: 1rem;
+}
+.frameWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 1000px;
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  width: 8.5rem;
+  height: 3rem;
+}
+.vuesaxlinearimportParent {
+  position: absolute;
+  top: 1rem;
+  left: 1.81rem;
+  width: 4.88rem;
+  height: 1rem;
+}
+.frameWrapper1 {
+  position: absolute;
+  top: 0;
+  left: 9.5rem;
+  border-radius: 1000px;
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  width: 8.5rem;
+  height: 3rem;
+}
+.financeManagementChild3,
+.frameParent1 {
+  position: absolute;
+  left: 70.13rem;
+  width: 18rem;
+}
+.frameParent1 {
+  top: 24.13rem;
+  height: 3rem;
+  font-size: 0.81rem;
+  color: #000;
+}
+.financeManagementChild3 {
+  top: 9.72rem;
+  height: 0.06rem;
+  object-fit: cover;
+}
+.coreSafariBigSurLigh {
+  position: absolute;
+  width: 100%;
+  top: 3.69rem;
+  right: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.03) inset, 0 0.5px 0 rgba(0, 0, 0, 0.08);
+  height: 0.06rem;
+}
+.frameChild4 {
+  position: absolute;
+  top: 1.5rem;
+  left: 8.19rem;
+  border-radius: 14px;
+  background-color: #f9cd09;
+  width: 1.5rem;
+  height: 0.31rem;
+}
+.frameChild5 {
+  left: 10.06rem;
+  background-color: #e27b04;
+  width: 2rem;
+}
+.frameChild5,
+.frameChild6,
+.frameChild7 {
+  position: absolute;
+  top: 1.5rem;
+  border-radius: 14px;
+  height: 0.31rem;
+}
+.frameChild6 {
+  left: 0;
+  background-color: #c53c68;
+  width: 7.81rem;
+}
+.frameChild7 {
+  left: 12.44rem;
+  background-color: #3cc599;
+  width: 3.19rem;
+}
+.frameChild8,
+.frameChild9 {
+  position: absolute;
+  top: 1.19rem;
+  left: 10.94rem;
+  border-radius: 50%;
+  background-color: #e27b04;
+  width: 0.88rem;
+  height: 0.88rem;
+}
+.frameChild9 {
+  top: 1.44rem;
+  left: 11.19rem;
+  background-color: #fff;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div2,
+.div3,
+.div4 {
+  left: 52.4%;
+}
+.div3,
+.div4 {
+  left: 68.8%;
+}
+.div4 {
+  left: 90.8%;
+  text-align: right;
+}
+.rectangleParent {
+  position: absolute;
+  top: 52.25rem;
+  left: 20.81rem;
+  width: 15.63rem;
+  height: 2.06rem;
+  font-size: 0.75rem;
+  color: #9aa2ac;
+}
+.transactionParent {
+  position: absolute;
+  top: 38.88rem;
+  left: 40.44rem;
+  width: 26.31rem;
+  height: 18.31rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.5rem;
+  font-size: 0.88rem;
+}
+.frameChild10 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #3c5cc5;
+  width: 0.88rem;
+  height: 0.88rem;
+}
+.rectangleGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.5rem;
+}
+.frameChild11 {
+  position: relative;
+  border-radius: 3px;
+  background-color: #60d2f9;
+  width: 0.88rem;
+  height: 0.88rem;
+}
+.frameParent2,
+.newsList {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent2 {
+  width: 15.9%;
+  top: calc(50% - 264.5px);
+  right: 26.94%;
+  left: 57.15%;
+  flex-direction: row;
+  gap: 1.75rem;
+  font-size: 0.75rem;
+  color: #758ea8;
+  font-family: Manrope;
+}
+.newsList {
+  top: 28.63rem;
+  left: 70.13rem;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.vuesaxboldgalleryIcon,
+.vuesaxboldgalleryIcon1 {
+  position: absolute;
+  top: 5.94rem;
+  left: 70.94rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: cover;
+}
+.vuesaxboldgalleryIcon1 {
+  top: 12.38rem;
+  left: 72rem;
+}
+.vuesaxboldgalleryIcon2,
+.vuesaxboldgalleryIcon3,
+.vuesaxboldgalleryIcon4 {
+  position: absolute;
+  top: 34.63rem;
+  left: 85rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: cover;
+}
+.vuesaxboldgalleryIcon3,
+.vuesaxboldgalleryIcon4 {
+  top: 45.31rem;
+}
+.vuesaxboldgalleryIcon4 {
+  top: 56rem;
+}
+.vuesaxboldgalleryIcon5,
+.vuesaxboldgalleryIcon6,
+.vuesaxboldgalleryIcon7 {
+  position: absolute;
+  top: 31.94rem;
+  left: 70.44rem;
+  width: 0.88rem;
+  height: 0.88rem;
+  object-fit: cover;
+}
+.vuesaxboldgalleryIcon6,
+.vuesaxboldgalleryIcon7 {
+  top: 42.38rem;
+}
+.vuesaxboldgalleryIcon7 {
+  top: 52.81rem;
+}
+.financeManagement {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 56.81rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #232f4e;
+  font-family: Inter;
+}
